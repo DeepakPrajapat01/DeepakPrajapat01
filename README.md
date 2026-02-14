@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Deepak Prajapat</h1>
 
-<!--
-**DeepakPrajapat01/DeepakPrajapat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Full Stack Android Developer  
+📱 Jetpack Compose • Kotlin • Spring Boot • MongoDB
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+💼 Open for Freelance Android & Backend Projects  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 📱 I build **modern Android apps using Jetpack Compose**
+- 🌐 I develop **scalable REST APIs with Spring Boot**
+- 🗄 I work with **MongoDB & Firebase databases**
+- 🧩 I create **complete full-stack mobile solutions**
+- 🚀 Currently building real-world production-style apps
+
+---
+
+## 🛠 Tech Stack
+
+### 📱 Android
+`Kotlin` • `Jetpack Compose` • `MVVM` • `Navigation` • `Material3`
+
+### 🌐 Backend
+`Java` • `Spring Boot` • `REST APIs` • `JWT Authentication`
+
+### 🗄 Database
+`MongoDB` • `Firebase`
+
+### ⚙️ Tools
+`Git` • `GitHub` • `Android Studio` • `Postman` • `IntelliJ`
+
+---
+
+## 📫 Contact
+
+📧 deepakprajapat0603@gmail.com  
+💼 Available for freelance work  
+
+---
+
+## ⚡ Developer Statement
+
+> I build both the Android app **AND** the backend API —  
+> delivering complete mobile solutions ready for production.
