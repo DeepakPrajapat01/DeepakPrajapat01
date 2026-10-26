@@ -1,50 +1,95 @@
 <h1 align="center">Hi 👋, I'm Deepak Prajapat</h1>
 
 <h3 align="center">
-🚀 Full Stack Android Developer  
-📱 Jetpack Compose • Kotlin • Spring Boot • MongoDB
+🚀 Java Developer | Full Stack Application Developer<br/>
+☕ Java • Spring Boot • REST APIs • Kotlin • MongoDB
 </h3>
 
 <p align="center">
-💼 Open for Freelance Android & Backend Projects  
+Building scalable applications, robust backend systems, and modern user experiences.
+</p>
+
+<p align="center">
+💼 Open to Java Developer Roles, Internships & Freelance Projects
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📱 I build **modern Android apps using Jetpack Compose**
-- 🌐 I develop **scalable REST APIs with Spring Boot**
-- 🗄 I work with **MongoDB & Firebase databases**
-- 🧩 I create **complete full-stack mobile solutions**
-- 🚀 Currently building real-world production-style apps
+* ☕ Passionate about **Java development, OOP, and problem-solving**
+* 🌐 Building backend applications using **Spring Boot and REST APIs**
+* 🏗️ Developing full-stack applications with a focus on clean architecture and maintainable code
+* 🗄️ Working with **MongoDB, Firebase, and database-driven applications**
+* 📱 Building modern Android applications using **Kotlin and Jetpack Compose**
+* 🔐 Implementing authentication, authorization, and secure API integrations
+* 🚀 Focused on building real-world projects and continuously improving my engineering skills
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 📱 Android
-`Kotlin` • `Jetpack Compose` • `MVVM` • `Navigation` • `Material3`
+### 💻 Programming Languages
 
-### 🌐 Backend
-`Java` • `Spring Boot` • `REST APIs` • `JWT Authentication`
+`Java` `c` `SQL`
 
-### 🗄 Database
-`MongoDB` • `Firebase`
+### ⚙️ Backend Development
 
-### ⚙️ Tools
-`Git` • `GitHub` • `Android Studio` • `Postman` • `IntelliJ`
+`Spring Boot` `Spring MVC` `REST APIs` `JWT Authentication` `Maven`
+
+### 🌐 Frontend Development
+
+`React` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
+
+### 📱 Android Development
+
+`Android SDK` `Jetpack Compose` `MVVM Architecture` `Material 3`
+
+### 🗄️ Databases & Storage
+
+`MongoDB` `Firebase` `Supabase` `MySQL`
+
+### 🧰 Tools & Platforms
+
+`Git` `GitHub` `Postman` `Android Studio` `IntelliJ IDEA` `VS Code`
 
 ---
 
-## 📫 Contact
+## 🚀 What I'm Working On
 
-📧 deepakprajapat0603@gmail.com  
-💼 Available for freelance work  
+* Building full-stack applications using Java, Spring Boot, and modern frontend technologies.
+* Designing REST APIs with secure authentication and reliable database integration.
+* Developing Android applications with Kotlin and Jetpack Compose.
+* Exploring scalable backend architectures, Docker, Redis, and event-driven systems.
 
 ---
 
-## ⚡ Developer Statement
+## 📌 Featured Projects
 
-> I build both the Android app **AND** the backend API —  
-> delivering complete mobile solutions ready for production.
+🔹 **AI Resume Rebuilder** — An AI-powered application for resume parsing, optimization, live previews, and PDF generation.
+
+🔹 **Z'QR Smart Attendance** — A QR-based attendance management system with role-based access and location verification.
+
+🔹 **RunCircle** — A community running platform for discovering, creating, and joining running groups.
+
+*Explore my GitHub repositories for project implementations, source code, and technical details.*
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [deepakprajapat0603@gmail.com](mailto:deepakprajapat0603@gmail.com)
+
+💼 **Interested in:** Java Developer Roles • Backend Development • Full Stack Development • Freelance Projects
+
+---
+
+## ⚡ Developer Philosophy
+
+> I believe in writing clean, maintainable code and building applications that solve real-world problems. From backend APIs and database design to frontend experiences, I enjoy turning ideas into functional software.
+
+---
+
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
